@@ -1,6 +1,6 @@
 
 # Blake2b.Net
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![nuget](https://img.shields.io/nuget/v/Blake2b.NetCore.svg)](https://www.nuget.org/packages/Blake2b.NetCore/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![nuget](https://img.shields.io/nuget/v/Blake2b.Net.svg)](https://www.nuget.org/packages/Blake2b.Net/)
 
 Blake2b.Net provides an implementation of the cryptographic hash and MAC functions of the [BLAKE2b](https://tools.ietf.org/html/draft-saarinen-blake2-02) algorithm, optimized for SIMD hardware instructions and [PinnedMemory](https://github.com/TimothyMeadows/PinnedMemory) support.
 
