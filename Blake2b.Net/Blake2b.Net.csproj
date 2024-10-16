@@ -4,6 +4,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Blake2b.Net</Title>
+    <Description>Blake2b.Net provides an implementation of the cryptographic hash and MAC functions of the BLAKE2b algorithm, optimized for SIMD hardware instructions and PinnedMemory support. </Description>
+    <PackageProjectUrl>https://github.com/TimothyMeadows/Blake2b.Net</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/TimothyMeadows/Blake2b.Net</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
