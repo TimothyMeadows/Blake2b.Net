@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blake2b.Net", "Blake2b.Net\Blake2b.Net.csproj", "{17E522C5-066B-4D22-AEFD-5C4A7DCAF218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blake2b.Net.Example", "Blake2b.Net.Example\Blake2b.Net.Example.csproj", "{A209C690-A8BD-4CF9-94D7-08E8BE49E371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E522C5-066B-4D22-AEFD-5C4A7DCAF218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E522C5-066B-4D22-AEFD-5C4A7DCAF218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E522C5-066B-4D22-AEFD-5C4A7DCAF218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E522C5-066B-4D22-AEFD-5C4A7DCAF218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A209C690-A8BD-4CF9-94D7-08E8BE49E371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A209C690-A8BD-4CF9-94D7-08E8BE49E371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A209C690-A8BD-4CF9-94D7-08E8BE49E371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A209C690-A8BD-4CF9-94D7-08E8BE49E371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C444E1-E583-41BE-A394-B0726277599D}
+	EndGlobalSection
+EndGlobal
